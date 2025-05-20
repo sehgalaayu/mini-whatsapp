@@ -8,7 +8,7 @@ A mini WhatsApp-style chat app built using **Node.js**, **Express**, **MongoDB**
 
 <img src="screenshots/demo.png" alt="Mini WhatsApp Demo" width="700"/>
 
-> Make sure to include the image file at: `screenshots/demo.png` in your repo!
+
 
 ---
 
